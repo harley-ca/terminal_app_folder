@@ -1,0 +1,42 @@
+--- !ruby/object:Character
+name: Sulla Twice-Killed
+str: 2
+dex: 6
+int: 1
+wrd: 5
+hp: 5
+armor: 11
+ward: 11
+damage: rand(1..6
+atk: dex
+level: 1
+exploration: 2
+money: 3
+--- !ruby/object:Character
+name: Ralof Hunter
+str: 1
+dex: 5
+int: 1
+wrd: 2
+hp: 10
+armor: 11
+ward: 11
+damage: rand(1..6
+atk: str
+level: 1
+exploration: 2
+money: 50
+--- !ruby/object:Character
+name: Garthar The Lion
+str: 1
+dex: 4
+int: 1
+wrd: 4
+hp: 9
+armor: 11
+ward: 11
+damage: rand(1..8)
+atk: dex
+level: 1
+exploration: 2
+money: 25
